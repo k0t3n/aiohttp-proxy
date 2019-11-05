@@ -45,6 +45,6 @@ async def proxy_with_emoji(request):
 
 
 app = web.Application()
-app.add_routes([web.get(r'/{path}', proxy_with_emoji)])
+app.add_routes([web.get('/{path:.*}', proxy_with_emoji)])
 
 web.run_app(app)
