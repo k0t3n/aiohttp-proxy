@@ -1,6 +1,7 @@
 # AIOHTTP Proxy
 AIOHTTP Proxy is an application that proxies requests for [lifehacker.ru](https://lifehacker.ru) and adds emoji to each
  word with a length of 6 characters 😎.
+Please don't send me such fucking test tasks anymore.
 
 ## Requirements
 Please note: the code has not been tested on other versions of dependencies.
