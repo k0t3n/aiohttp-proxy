@@ -3,6 +3,8 @@ AIOHTTP Proxy is an application that proxies requests for [lifehacker.ru](https:
  word with a length of 6 characters 😎.
 Please don't send me such fucking test tasks anymore.
 
+![example](https://sun9-18.userapi.com/c856132/v856132350/18147d/eB1zyKV5nGg.jpg)
+
 ## Requirements
 Please note: the code has not been tested on other versions of dependencies.
 * [Python 3.7](https://www.python.org/downloads/release/python-370/)
